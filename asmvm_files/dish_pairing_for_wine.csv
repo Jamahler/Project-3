@@ -2,109 +2,107 @@
 0,white_wine,"['pho', 'stew', 'crab', 'carp', 'fish']"," It goes especially well with pho, stew, crab, carp, and fish."
 1,dry_white_wine,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 2,assyrtiko,"['gyros', 'greek', 'souvlaki', 'moussaka', 'spanakopita']","Assyrtiko is a dry white wine which is crisp and light bodied. It goes especially well with gyros, greek, souvlaki, moussaka, and spanakopita."
-3,pinot_blanc,failure,No dish pairings found for wine pinot_blanc
-4,cortese,failure,No dish pairings found for wine cortese
-5,roussanne,failure,No dish pairings found for wine roussanne
+3,pinot_blanc,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+4,cortese,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+5,roussanne,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 6,moschofilero,"['gyros', 'greek', 'souvlaki', 'moussaka', 'spanakopita']","Moschofilero is a dry white wine which is crisp and light bodied. It goes especially well with gyros, greek, souvlaki, moussaka, and spanakopita."
 7,muscadet,"['crab', 'clams', 'shrimp', 'lobster', 'cockles']","Muscadet is a dry white wine which is crisp and light bodied. It goes especially well with crab, clams, shrimp, lobster, and cockles."
 8,viognier,['mackerel'],Viognier is a dry white wine which is smooth and medium bodied. It goes especially well with mackerel.
 9,verdicchio,"['pizza', 'calzone', 'ravioli', 'gnocchi', 'risotto']","Verdicchio is a dry white wine which is crisp and light bodied. It goes especially well with pizza, calzone, ravioli, gnocchi, and risotto."
-10,greco,failure,No dish pairings found for wine greco
-11,marsanne,failure,No dish pairings found for wine marsanne
+10,greco,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+11,marsanne,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 12,white_burgundy,"['stew', 'chili', 'jjigae', 'quiche', 'french']","White Burgundy is a dry white wine which is bold and full bodied. It goes especially well with stew, chili, jjigae, quiche, and french."
 13,chardonnay,"['crab', 'clams', 'salad', 'shrimp', 'salmon']","Chardonnay is a dry white wine which is bold and full bodied. It goes especially well with crab, clams, salad, shrimp, and salmon."
 14,gruener_veltliner,"['cod', 'sole', 'crab', 'tuna', 'hake']","Gruener Veltliner is a dry white wine which is crisp and light bodied. It goes especially well with cod, sole, crab, tuna, and hake."
-15,white_rioja,failure,No dish pairings found for wine white_rioja
+15,white_rioja,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 16,frascati,"['pasta carbonara', 'spaghetti carbonara']",Frascati is a dry white wine which is crisp and light bodied. It goes especially well with pasta carbonara and spaghetti carbonara.
 17,gavi,['caesar salad'],Gavi is a dry white wine which is crisp and light bodied. It goes especially well with caesar salad.
-18,l_acadie_blanc,failure,No dish pairings found for wine l_acadie_blanc
+18,l_acadie_blanc,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 19,trebbiano,"['pizza', 'calzone', 'ravioli', 'gnocchi', 'risotto']","Trebbiano is a dry white wine which is crisp and light bodied. It goes especially well with pizza, calzone, ravioli, gnocchi, and risotto."
 20,sauvignon_blanc,"['gumbo', 'salad', 'sushi', 'cajun', 'shrimp']","Sauvignon Blanc is a dry white wine which is smooth and medium bodied. It goes especially well with gumbo, salad, sushi, cajun, and shrimp."
-21,catarratto,failure,No dish pairings found for wine catarratto
+21,catarratto,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 22,albarino,"['gumbo', 'cajun', 'paella', 'po boy', 'spanish']","Albarino is a dry white wine which is crisp and light bodied. It goes especially well with gumbo, cajun, paella, po boy, and spanish."
-23,arneis,failure,No dish pairings found for wine arneis
+23,arneis,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 24,verdejo,['gazpacho'],Verdejo is a dry white wine which is crisp and light bodied. It goes especially well with gazpacho.
 25,vermentino,['shrimp scampi'],Vermentino is a dry white wine which is crisp and light bodied. It goes especially well with shrimp scampi.
-26,soave,failure,No dish pairings found for wine soave
+26,soave,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 27,pinot_grigio,"['cod', 'sole', 'crab', 'tuna', 'hake']","Pinot Grigio is a dry white wine which is crisp and light bodied. It goes especially well with cod, sole, crab, tuna, and hake."
-28,dry_riesling,failure,No dish pairings found for wine dry_riesling
-29,torrontes,failure,No dish pairings found for wine torrontes
-30,mueller_thurgau,failure,No dish pairings found for wine mueller_thurgau
-31,grechetto,failure,No dish pairings found for wine grechetto
+28,dry_riesling,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+29,torrontes,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+30,mueller_thurgau,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+31,grechetto,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 32,gewurztraminer,"['pho', 'thai', 'sushi', 'asian', 'jjigae']","Gewurztraminer is a white wine which is aromatic and vibrant. It goes especially well with pho, thai, sushi, asian, and jjigae."
 33,chenin_blanc,"['pho', 'thai', 'sushi', 'asian', 'jjigae']","Chenin Blanc is a white wine which is aromatic and vibrant. It goes especially well with pho, thai, sushi, asian, and jjigae."
-34,white_bordeaux,failure,No dish pairings found for wine white_bordeaux
-35,semillon,failure,No dish pairings found for wine semillon
+34,white_bordeaux,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+35,semillon,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 36,riesling,"['pho', 'crab', 'thai', 'clams', 'chole']","Riesling is a white wine which is crisp and light bodied. It goes especially well with pho, crab, thai, clams, and chole."
-37,sauternes,failure,No dish pairings found for wine sauternes
-38,sylvaner,failure,No dish pairings found for wine sylvaner
-39,lillet_blanc,failure,No dish pairings found for wine lillet_blanc
+37,sauternes,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+38,sylvaner,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
+39,lillet_blanc,"['stew', 'crab', 'carp', 'fish', 'clams']"," It goes especially well with stew, crab, carp, fish, and clams."
 40,red_wine,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 41,dry_red_wine,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
-42,petite_sirah,failure,No dish pairings found for wine petite_sirah
+42,petite_sirah,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 43,zweigelt,['goulash'],Zweigelt is a dry red wine which is light and fruity. It goes especially well with goulash.
-44,baco_noir,failure,No dish pairings found for wine baco_noir
-45,bonarda,failure,No dish pairings found for wine bonarda
-46,cabernet_franc,failure,No dish pairings found for wine cabernet_franc
-47,bairrada,failure,No dish pairings found for wine bairrada
+44,baco_noir,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
+45,bonarda,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
+46,cabernet_franc,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
+47,bairrada,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 48,barbera_wine,"['pizza', 'chicken parmesan']",Barbera Wine is a dry red wine which is light and fruity. It goes especially well with pizza and chicken parmesan.
 49,primitivo,['beef stroganoff'],Primitivo is a dry red wine which is bold and full bodied. It goes especially well with beef stroganoff.
 50,pinot_noir,"['cod', 'sole', 'crab', 'tuna', 'hake']","Pinot Noir is a dry red wine which is light and fruity. It goes especially well with cod, sole, crab, tuna, and hake."
 51,nebbiolo,['baked ziti'],Nebbiolo is a dry red wine which is bold and full bodied. It goes especially well with baked ziti.
-52,dolcetto,failure,No dish pairings found for wine dolcetto
-53,tannat,failure,No dish pairings found for wine tannat
-54,negroamaro,failure,No dish pairings found for wine negroamaro
+52,dolcetto,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
+53,tannat,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
+54,negroamaro,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 55,red_burgundy,"['coq au vin', 'beef bourguignon']",Red Burgundy is a dry red wine which is light and fruity. It goes especially well with coq au vin and beef bourguignon.
-56,corvina,failure,No dish pairings found for wine corvina
+56,corvina,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 57,rioja,['goulash'],Rioja is a dry red wine which is light and fruity. It goes especially well with goulash.
-58,cotes_du_rhone,failure,No dish pairings found for wine cotes_du_rhone
+58,cotes_du_rhone,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 59,grenache,"['chili', 'paella', 'spanish', 'empanada']","Grenache is a dry red wine which is smooth and medium bodied. It goes especially well with chili, paella, spanish, and empanada."
 60,malbec,"['stew', 'steak', 'chili', 'jjigae', 'burger']","Malbec is a dry red wine which is bold and full bodied. It goes especially well with stew, steak, chili, jjigae, and burger."
 61,zinfandel,"['burger', 'brisket', 'cioppino', 'meatloaf', 'rib tips']","Zinfandel is a dry red wine which is bold and full bodied. It goes especially well with burger, brisket, cioppino, meatloaf, and rib tips."
 62,sangiovese,"['steak', 'pizza', 'lasagne', 'italian', 'cioppino']","Sangiovese is a dry red wine which is smooth and medium bodied. It goes especially well with steak, pizza, lasagne, italian, and cioppino."
-63,carignan,failure,No dish pairings found for wine carignan
-64,carmenere,failure,No dish pairings found for wine carmenere
-65,cesanese,failure,No dish pairings found for wine cesanese
+63,carignan,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
+64,carmenere,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
+65,cesanese,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 66,cabernet_sauvignon,"['stew', 'steak', 'chili', 'jjigae', 'cholent']","Cabernet Sauvignon is a dry red wine which is bold and full bodied. It goes especially well with stew, steak, chili, jjigae, and cholent."
-67,aglianico,failure,No dish pairings found for wine aglianico
+67,aglianico,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 68,tempranillo,"['paella', 'brisket', 'spanish', 'empanada', 'soy burger']","Tempranillo is a dry red wine which is smooth and medium bodied. It goes especially well with paella, brisket, spanish, empanada, and soy burger."
 69,shiraz,"['chili', 'pizza', 'brisket', 'goulash', 'rib tips']","Shiraz is a dry red wine which is bold and full bodied. It goes especially well with chili, pizza, brisket, goulash, and rib tips."
-70,mourvedre,failure,No dish pairings found for wine mourvedre
+70,mourvedre,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 71,merlot,"['tuna', 'steak', 'burger', 'prime rib', 'beef ribs']","Merlot is a dry red wine which is smooth and medium bodied. It goes especially well with tuna, steak, burger, prime rib, and beef ribs."
 72,nero_d_avola,"['beef stroganoff', 'spaghetti and meatballs']",Nero D Avola is a dry red wine which is bold and full bodied. It goes especially well with beef stroganoff and spaghetti and meatballs.
 73,bordeaux,"['quiche', 'french', 'souffle', 'coq au vin', 'duck confit']","Bordeaux is a dry red wine which is smooth and medium bodied. It goes especially well with quiche, french, souffle, coq au vin, and duck confit."
-74,marsala,failure,No dish pairings found for wine marsala
+74,marsala,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 75,port,"['turnover', 'hand pies', 'onion tart', 'pastry pillows', 'souffle dessert']"," It goes especially well with turnover, hand pies, onion tart, pastry pillows, and souffle dessert."
 76,gamay,"['coq au vin', 'turkey burgers', 'french onion soup']","Gamay is a red wine which is light and fruity. It goes especially well with coq au vin, turkey burgers, and french onion soup."
 77,dornfelder,"['german', 'rouladen', 'schnitzel']"," It goes especially well with german, rouladen, and schnitzel."
-78,concord_wine,failure,No dish pairings found for wine concord_wine
+78,concord_wine,"['stew', 'crab', 'tuna', 'carp', 'fish']"," It goes especially well with stew, crab, tuna, carp, and fish."
 79,sparkling_red_wine,['macaroni and cheese'], It goes especially well with macaroni and cheese.
 80,pinotage,"['bobotie', 'african', 'bunny chow', 'jollof rice', 'piri piri chicken']","Pinotage is a red wine which is bold and full bodied. It goes especially well with bobotie, african, bunny chow, jollof rice, and piri piri chicken."
 81,agiorgitiko,"['gyros', 'greek', 'souvlaki', 'moussaka', 'spanakopita']","Agiorgitiko is a red wine which is bold and full bodied. It goes especially well with gyros, greek, souvlaki, moussaka, and spanakopita."
 82,dessert_wine,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
-83,pedro_ximenez,failure,No dish pairings found for wine pedro_ximenez
+83,pedro_ximenez,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
 84,moscato,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']","Moscato is a dessert wine which is aromatic and vibrant. It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
-85,late_harvest,failure,No dish pairings found for wine late_harvest
-86,ice_wine,failure,No dish pairings found for wine ice_wine
-87,white_port,failure,No dish pairings found for wine white_port
-88,lambrusco_dolce,failure,No dish pairings found for wine lambrusco_dolce
-89,madeira,failure,No dish pairings found for wine madeira
-90,banyuls,failure,No dish pairings found for wine banyuls
-91,vin_santo,failure,No dish pairings found for wine vin_santo
+85,late_harvest,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
+86,ice_wine,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
+87,white_port,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
+88,lambrusco_dolce,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
+89,madeira,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
+90,banyuls,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
+91,vin_santo,"['turnover', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, onion tart, chocolate souffle, and vanilla ricotta souffle."
 92,port,"['turnover', 'hand pies', 'onion tart', 'pastry pillows', 'souffle dessert']"," It goes especially well with turnover, hand pies, onion tart, pastry pillows, and souffle dessert."
 93,rose_wine,"['tuna', 'chole', 'gumbo', 'sushi', 'cajun']"," It goes especially well with tuna, chole, gumbo, sushi, and cajun."
 94,sparkling_rose,"['chole', 'tacos', 'curry', 'sushi', 'nachos']"," It goes especially well with chole, tacos, curry, sushi, and nachos."
 95,sparkling_wine,"['cod', 'sole', 'crab', 'tuna', 'hake']"," It goes especially well with cod, sole, crab, tuna, and hake."
 96,cava,"['chili', 'crabcakes', 'grilled cheese sandwich']"," It goes especially well with chili, crabcakes, and grilled cheese sandwich."
-97,cremant,failure,No dish pairings found for wine cremant
+97,cremant,"['cod', 'sole', 'crab', 'tuna', 'hake']"," It goes especially well with cod, sole, crab, tuna, and hake."
 98,champagne,"['quiche', 'french', 'ceviche', 'souffle', 'coq au vin']"," It goes especially well with quiche, french, ceviche, souffle, and coq au vin."
-99,prosecco,failure,No dish pairings found for wine prosecco
-100,spumante,failure,No dish pairings found for wine spumante
+99,prosecco,"['cod', 'sole', 'crab', 'tuna', 'hake']"," It goes especially well with cod, sole, crab, tuna, and hake."
+100,spumante,"['cod', 'sole', 'crab', 'tuna', 'hake']"," It goes especially well with cod, sole, crab, tuna, and hake."
 101,sparkling_rose,"['chole', 'tacos', 'curry', 'sushi', 'nachos']"," It goes especially well with chole, tacos, curry, sushi, and nachos."
 102,sherry,"['turnover', 'gazpacho', 'onion tart', 'chocolate souffle', 'vanilla ricotta souffle']"," It goes especially well with turnover, gazpacho, onion tart, chocolate souffle, and vanilla ricotta souffle."
 103,cream_sherry,"['turnover', 'hand pies', 'onion tart', 'pastry pillows', 'souffle dessert']"," It goes especially well with turnover, hand pies, onion tart, pastry pillows, and souffle dessert."
 104,dry_sherry,['gazpacho'], It goes especially well with gazpacho.
-105,vermouth,failure,No dish pairings found for wine vermouth
-106,dry_vermouth,failure,No dish pairings found for wine dry_vermouth
-107,fruit_wine,failure,No dish pairings found for wine fruit_wine
-108,mead,failure,No dish pairings found for wine mead
+105,vermouth,"['oysters, crab, prawns']","Served on the rocks they’re a natural match for seafood especially shellfish like oysters, crab and prawns"
+106,mead,"['steak, stew, chili']","Dry meads go with dinner, sweet meads are for after dinner and sparkling meads are for drinking on their own. A mead like Antinomy is an excellent choice as a pairing wine with steaks, stews, chili and other dark, heavy meals.                  You could also try Skol, but it may not pair quite as perfectly as Antinomy."
