@@ -20,16 +20,23 @@ app.config['MONGO_URI'] = "mongodb://localhost:27017/Dodecagon"
 
 mongo = PyMongo(app)
 
-@app.route("/")
-def index():
-    meal = mongo.db.recipes.find_one()
-    return render_template(index.html, meal=meal)
+from pymongo import MongoClient
+client = MongoClient('mongodb://localhost:27017/')
+db = client['Dodecagon']
+recipes_collection = db.recipes
 
-# @app.route('/dish/<dish>')
-# def  dish():
-#     meal = mongo.db.recipes.findOne({},{'Title':dish})
-#     resp = dumps(dish)
-#     return resp
+
+# @app.route("/")
+# def index():
+#     meal = mongo.db.recipes.find_one()
+#     return render_template(index.html, meal=meal)
+
+@app.route('/dish/<dish>')
+def  dish(dish):
+    meal = recipes_collection.find({'Title':dish})
+    print(meal)
+    resp = dumps(meal)
+    return resp
 
 
 @app.route('/recipes')
@@ -38,6 +45,11 @@ def recipes():
     resp = dumps(recipes)
     return resp
 
+@app.route('/wines')
+def wines():
+    wines = mongo.db.wines.find({},{'wine':1})
+    resp = dumps(wines)
+    return resp
 
 
 if __name__ == "__main__":
