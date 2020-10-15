@@ -1,5 +1,5 @@
 #background-image {
-    background: url(img/food_and_wine.jpg);
+    background: url(../static/img/food_and_wine.jpg);
     background-size: auto;
     opacity: auto;
     background-repeat: no-repeat;

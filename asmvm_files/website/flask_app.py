@@ -17,8 +17,11 @@ app = Flask(__name__)
 # app.secret_key = "secretkey"
 
 app.config['MONGO_URI'] = "mongodb://localhost:27017/Dodecagon"
-
 mongo = PyMongo(app)
+from pymongo import MongoClient
+client = MongoClient('mongodb://localhost:27017/')
+db = client['Dodecagon']
+recipes_collection = db.recipes
 
 @app.route("/")
 def index():
@@ -31,7 +34,11 @@ def index():
 #     resp = dumps(dish)
 #     return resp
 
-
+@app.route('/dish')
+def dish():
+    meal = recipes_collection.find_one({'Spoon_ID': "920049.0"})
+    # return f'<h1>Recipe: {meal["Title"]}</h1><h2>Percent_Fat: {meal["Percent_Fat"]}</h2><h3>Summary: {meal["Summary"]}</h3>'
+    return meal["Title"]
 @app.route('/recipes')
 def recipes():
     recipes = mongo.db.recipes.find({},{'Title':1})
